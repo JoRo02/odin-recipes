@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(104, 196, 135);
+    text-align: center;
+}
+
+h1, h2, a, p{
+    color: white;
+}
+
+h1,{
+    font-family: monospace;
+    font-weight: bold;
+}
+
+li{
+    text-align: center;
+    color: azure;
+}
+
+img{
+    width: 200px;;
+}
